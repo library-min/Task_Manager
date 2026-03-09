@@ -1,6 +1,5 @@
 # Task Manager
 
-**생산성 향상을 위한 웹 기반 할 일 관리 도구**
 **개인 프로젝트**
 
 ---
@@ -224,4 +223,5 @@ const changeTheme = (newColor) => {
 * Firebase/Supabase로 실시간 동기화
 * 팀 워크스페이스
 * 할 일 공유 및 할당
+
 
