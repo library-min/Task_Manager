@@ -179,7 +179,6 @@ const changeTheme = (newColor) => {
 
 | 기능 | 설명 | 기술 |
 | --- | --- | --- |
-| **사용자 인증** | 이메일 기반 회원가입 & 로그인 | React Context |
 | **할 일 관리** | 추가/수정/삭제/완료 처리 | useState |
 | **카테고리 시스템** | 기본 4개 + 커스텀 카테고리 | Context API |
 | **우선순위 & 마감일** | 3단계 우선순위 + 날짜 설정 | Date API |
@@ -221,5 +220,6 @@ const changeTheme = (newColor) => {
 * Firebase/Supabase로 실시간 동기화
 * 팀 워크스페이스
 * 할 일 공유 및 할당
+
 
 
