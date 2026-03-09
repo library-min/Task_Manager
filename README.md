@@ -22,13 +22,13 @@
 
 ### 1️⃣ 메인 화면 (라이트 모드)
 
-[![메인 화면](public/To-Do List_2 Full Page (Light).png)](./public/To-Do%20List_2%20Full%20Page%20(Light).png)
+![alt text](<public/To-Do List_2 Full Page (Light).png>)
 
 ---
 
 ### 2️⃣ 대시보드 (통계 시각화)
 
-[![대시보드](./public/To-Do%20List_2%20Dash.png)](./public/To-Do%20List_2%20Dash.png)
+![alt text](<public/To-Do List_2 Dash.png>)
 
 **설계한 것**
 
@@ -54,7 +54,7 @@ const stats = useMemo(() => ({
 
 ### 3️⃣ 할 일 관리 시스템
 
-[![할 일 목록](public/To-Do List_2 Full Page (Light).png)](./public/To-Do%20List_2%20Full%20Page.png)
+![alt text](<public/To-Do List_2 Full Page (Light).png>)
 
 **설계한 것**
 
@@ -82,7 +82,7 @@ const filteredTodos = useMemo(() => {
 
 ### 4️⃣ 테마 & 다크모드
 
-[![다크 모드](public/To-Do List_2 Full Page.png)](./public/To-Do%20List_2%20Full%20Page.png)
+![alt text](<public/To-Do List_2 Full Page.png>)
 
 **설계한 것**
 
