@@ -4,9 +4,7 @@
 
 ---
 
-## 내가 한 일
-
-**모든 기능을 처음부터 설계하고 구현했습니다.**
+## 한 일
 
 * **화면 설계**: 사용자가 필요한 모든 페이지 기획 및 UI/UX 설계
 * **React 개발**: 모든 컴포넌트 및 기능 직접 작성
@@ -121,7 +119,7 @@ const changeTheme = (newColor) => {
 
 ## 🛠 기술 스택
 
-**Frontend (내가 구현)**
+**Frontend **
 
 * React 19.1.1 (Hooks & Context API)
 * Vite 7.1.2 (빌드 도구)
